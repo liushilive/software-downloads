@@ -32,4 +32,6 @@
 
 * SVN Server 下载 <https://www.visualsvn.com/server/download>
 
-<span id="busuanzi_container_site_uv" style='display:none'>本站访客数<span id="busuanzi_value_site_uv"></span>人次</span>
+* Xmind8 下载 <https://pan.baidu.com/s/1mcIfFWc31PT0_qAWZRFwEQ> 密码：`p5d0`
+
+<span id="busuanzi_container_site_uv" style='display:none'>本站访客数 <span id="busuanzi_value_site_uv"> </span>人次</span>
