@@ -6,6 +6,8 @@
 
 * Python <https://www.python.org/downloads>
 
+* Fiddler <https://www.telerik.com/download/fiddler>
+
 * pycharm 下载 Community <https://www.jetbrains.com/pycharm/download>
 
 * PostMan <https://www.getpostman.com>
