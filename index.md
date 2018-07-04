@@ -20,6 +20,8 @@
 
 * haxm-windows_v6_2_1 <https://pan.baidu.com/s/1P4D1yGdfBmzptNzlAjWFRg> 密码：`5w2f`
 
+* [haxm-windows 官方下载](https://software.intel.com/en-us/articles/intel-hardware-accelerated-execution-manager-intel-haxm)
+
 * Download CentOS <https://www.centos.org/download>
 
 * VMware-workstation <https://pan.baidu.com/s/1cyyhuBafvPeqTwpRLWhp6Q> 密码：`g8sx`
