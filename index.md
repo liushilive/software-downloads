@@ -18,7 +18,7 @@
 
 * android-SDK <https://pan.baidu.com/s/1eotkTP_eOFEz1YIoM2J7lw> 密码：`w63x`
 
-* haxm-windows_v6_2_1 <https://pan.baidu.com/s/1eotkTP_eOFEz1YIoM2J7lw> 密码：`5w2f`
+* haxm-windows_v6_2_1 <https://pan.baidu.com/s/1P4D1yGdfBmzptNzlAjWFRg> 密码：`5w2f`
 
 * Download CentOS <https://www.centos.org/download>
 
