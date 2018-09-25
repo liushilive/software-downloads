@@ -1,6 +1,6 @@
 # 常用软件下载
 
-<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 * [回到首页](https://liushilive.github.io/)
 
