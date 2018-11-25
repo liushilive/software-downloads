@@ -37,7 +37,7 @@ AC5XK-0ZD4H-088HP-9NQZV-ZG2R4
 ZC5XK-A6E0M-080XQ-04ZZG-YF08D
 ZY5H0-D3Y8K-M89EZ-AYPEG-MYUA8 -->
 
-* [大商创镜像链接](https://pan.baidu.com/s/16dAQKLkKQQVGx1KLp187xA) 提取密码：`ezuh`
+* [大商创镜像链接](https://pan.baidu.com/s/1-EeNsfULn_oNdh2yyYi9gg) 提取密码：`z7oe`
 
 ## 版本管理
 
