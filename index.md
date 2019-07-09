@@ -4,6 +4,10 @@
 
 * [回到首页](https://liushilive.github.io/)
 
+## 驱动
+
+* [驱动精灵万能网卡版](http://file.drivergenius.com/DGSetup_3040E2_20190628.exe)
+
 ## Android
 
 * [android-SDK](https://pan.baidu.com/s/1eotkTP_eOFEz1YIoM2J7lw) 提取密码：`w63x`
