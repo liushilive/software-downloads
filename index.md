@@ -2,27 +2,23 @@
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-* [回到首页](https://liushilive.github.io/)
-
-## 驱动
-
-* [驱动精灵万能网卡版](http://file.drivergenius.com/DGSetup_3040E2_20190628.exe)
+* [回到首页](..)
 
 ## Android
 
-* [android-SDK](https://pan.baidu.com/s/1eotkTP_eOFEz1YIoM2J7lw) 提取密码：`w63x`
+* [Android-SDK](https://pan.baidu.com/s/1QcOup50rvdpKkY-ZQU2E6A) 提取密码：`6666`
 
-* [haxm-windows_v6_2_1](https://pan.baidu.com/s/1P4D1yGdfBmzptNzlAjWFRg) 提取密码：`5w2f`
+* [haxm-windows](https://pan.baidu.com/s/1t_4Kq-loTYBwirua1rjPWw) 提取密码：`6666`
 
 * [haxm 官方下载](https://github.com/intel/haxm/releases)
 
-* [Appium](http://appium.io/)
+* [Appium](https://pan.baidu.com/s/1_nOxUtlqOc1-qPhnuJ0iFA) 提取密码：`6666`
 
 ## 接口测试工具
 
-* [Fiddler](https://www.telerik.com/download/fiddler)
+* [Fiddler](https://pan.baidu.com/s/1UsXIHHZymWtFGPtU6gb9Bw) 提取密码：`6666`
 
-* [PostMan](https://www.getpostman.com)
+* [PostMan](https://pan.baidu.com/s/1toLKJnCI4f6ELOfvD7djzg) 提取密码：`6666`
 
 ## 持续集成
 
@@ -32,16 +28,9 @@
 
 * [Download CentOS](https://www.centos.org/download)
 
-* [VMware-workstation](https://www.vmware.com/products/workstation-pro.html)
+* [VMware-workstation](https://www.vmware.com/cn/products/workstation-pro.html)
 
-<!-- VMware Workstation 14 Pro 永久注册码：
-CG54H-D8D0H-H8DHY-C6X7X-N2KG6
-ZC3WK-AFXEK-488JP-A7MQX-XL8YF
-AC5XK-0ZD4H-088HP-9NQZV-ZG2R4
-ZC5XK-A6E0M-080XQ-04ZZG-YF08D
-ZY5H0-D3Y8K-M89EZ-AYPEG-MYUA8 -->
-
-* [大商创镜像链接](https://pan.baidu.com/s/1-EeNsfULn_oNdh2yyYi9gg) 提取密码：`z7oe`
+* [高阶项目](https://pan.baidu.com/s/1b0f6rBK6ku4_vmWkPLVSzA) 提取密码：`6666`
 
 ## 版本管理
 
@@ -51,19 +40,13 @@ ZY5H0-D3Y8K-M89EZ-AYPEG-MYUA8 -->
 
 * [git](https://git-scm.com/)
 
-## 思维导图
-
-* [Xmind8 下载](https://pan.baidu.com/s/1mcIfFWc31PT0_qAWZRFwEQ) 提取密码：`p5d0`
-
 ## 开发工具
 
 * [Python](https://www.python.org/downloads)
 
 * [pycharm 下载 Community](https://www.jetbrains.com/pycharm/download)
 
-* [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-
-* [wxPython2.8-win64-unicode-2.8.12.1-py27](https://pan.baidu.com/s/13UFDjvVbOcYtVbITDY7gBw) 提取密码：`ep7a`
+* [Java JDK](https://pan.baidu.com/s/1L_XRJWaBOjVGa1Cmr4OLjQ) 提取密码：`6666`
 
 ## 性能测试工具
 
@@ -99,11 +82,11 @@ AIDA64 Business 商业版  UBCK4-XFRD6-PBDN9-SDM8Y-N4A2Y
 
 ## 文本编辑器
 
-* [Notepad++](https://notepad-plus-plus.org/download/v7.5.7.html)
+* [Notepad++](https://notepad-plus-plus.org/)
 
 * [Typora](https://typora.io/)
 
-* [calibre](https://calibre-ebook.com/download)
+* [calibre](https://calibre-ebook.com/)
 
 * [VS Code](https://code.visualstudio.com/)
 
@@ -120,7 +103,5 @@ AIDA64 Business 商业版  UBCK4-XFRD6-PBDN9-SDM8Y-N4A2Y
 * [SmoothDraw](http://www.smoothdraw.com/sd_zh)
 
 * [Pointofix](http://www.pointofix.de/download.php)
-
-<!-- www.zhidefenxiang.com -->
 
 <span id="busuanzi_container_site_uv" style='display:none'>本站访客数<span id="busuanzi_value_site_uv"></span>人次</span>
